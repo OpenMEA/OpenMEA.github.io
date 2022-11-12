@@ -1,5 +1,8 @@
 # Welcome to the OpenMEA project!
 
+![Overview](OpenMEA.github.io/assets/images/SfN_OpenMEA.svg)
+
+
 The design files are currently being consolidated, but you can find preliminary versions here:
 Headstage Electronics:
 https://github.com/InteGerard/OpenMEA/tree/main/system/pcb/headstage
