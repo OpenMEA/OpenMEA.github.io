@@ -1,6 +1,6 @@
 # Welcome to the OpenMEA project!
 
-![Overview](./docs/assets/images/SfN_OpenMEA.svg)
+![Overview](./docs/assets/images/SfN_OpenMEA.PNG)
 
 
 The design files are currently being consolidated, but you can find preliminary versions here:
